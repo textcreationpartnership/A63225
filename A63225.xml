@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tryals  of the prisoners at the Sessions-House in the Old Bayly which began there on Wednesday the 6th of this instant September, and ended on Thursday the 7th of the same. But more remarkably of the pewterer, who was tryed for killing the boy in Walbrook. Together with the bailiffs tryals for killing a man upon an arrest. As likewise the account of those condemned, burnt in the hand, and to be whipt; with many other remarkable passages.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63225</idno>
+            <idno type="STC">Wing T2263</idno>
+            <idno type="STC">ESTC R219331</idno>
+            <idno type="EEBO-CITATION">99830810</idno>
+            <idno type="PROQUEST">99830810</idno>
+            <idno type="VID">35264</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63225)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35264)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2083:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tryals  of the prisoners at the Sessions-House in the Old Bayly which began there on Wednesday the 6th of this instant September, and ended on Thursday the 7th of the same. But more remarkably of the pewterer, who was tryed for killing the boy in Walbrook. Together with the bailiffs tryals for killing a man upon an arrest. As likewise the account of those condemned, burnt in the hand, and to be whipt; with many other remarkable passages.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Langley Curtis,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>[1682]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prisoners --  England --  Early works to 1800.</term>
+               <term>Trials --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:35264:1" rendition="simple:additions"/>
+            <head>THE TRYALS OF THE PRISONERS AT THE Seſſions-Houſe in the Old Bayly, Which began there on <hi>Wedneſday</hi> the 6th of this Inſtant <hi>September,</hi> and ended on <hi>Thurſday</hi> the 7th of the ſame. But more remarkably of the Pewterer, who was Tryed for Killing the Boy in <hi>Walbrook.</hi> Together with the Bailiffs Tryals for Killing a Man upon an Arreſt. As likewiſe the Account of thoſe Condemned, Burnt in the Hand, and to be Whipt; with many other Remarkable Paſſages.</head>
+            <head type="sub">
+               <hi>September 6.</hi> This Day the Seſsions of <hi>Oyer</hi> and <hi>Terminer</hi> for <hi>Lon<g ref="char:EOLhyphen"/>don</hi> and <hi>Middleſex</hi> began in the <hi>Old Bayly,</hi> where the Proceedings were theſe ſequent.</head>
+            <p>
+               <hi>ANN Parkinſon</hi> was Indicted for Robbing <hi>Sarah Puzny</hi> of ſe<g ref="char:EOLhyphen"/>veral pieces of Plate, a Mantua Gown, pieces of Gold, and a conſiderable quantity of Silver Coin, all amounting to upwards of 50 pounds; a great part of which was found in her Cuſto<g ref="char:EOLhyphen"/>dy, and at ſuch places where ſhe had pawned them; and it being evident thet ſhe Confeſſed the Robbery ſince her Impriſonment, ſhe was found Guilty, though ſhe pleaded that they were given her to ſell by a Woman that owed her Money.</p>
+            <p>
+               <hi>John Clifford</hi> received his Tryal for taking a Queen <hi>Elizabeth</hi> Piece of Gold out of the Pocket of <hi>John Paine,</hi> a Perſon who came to lodg at an Inn, where he was under-Oſtler, which he had diſpoſed of to a Goldſmith for 25 Shillings, at firſt he denied it, but afterwards ſaid he
+<pb n="2" facs="tcp:35264:2" rendition="simple:additions"/>found it, but that availed him nothing, for he was found Guilty.</p>
+            <p>
+               <hi>Richard Trebarford</hi> upon his Arraignment for ſtealing a Tankard, laid in the Indictment at 10 <abbr>
+                  <hi>l.</hi>
+               </abbr> pleaded Guilty, he having been an old, Offender, once burnt in the hand, and once pardoned.</p>
+            <p>
+               <hi>Peter Hodges,</hi> and <hi>Robert Rogers</hi> were Tryed for breaking open the Houſe of <hi>Richard Sares</hi> at <hi>Elm,</hi> and taking away Linnen and Woollen, wearing Apparel, Puter, Curtains, and other things of worth, upon which, being purſued on their way to <hi>London,</hi> they were overtaken, one with the bundle upon his back, and the other accompanying him; but being asked what they could ſay for themſelves, <hi>Rogers</hi> ſaid that he accidentally over<g ref="char:EOLhyphen"/>took the other, not knowing what he had got, and the other ſaid that what he had, was delivered to him by a ſtrange man to carry to <hi>Brainford,</hi> for which he was to have 6 <abbr>
+                  <hi>d.</hi>
+               </abbr> but being both trapp'd in their Tails, they were Convicted of the Felony and Burglary.</p>
+            <p>
+               <hi>Martin Aubery</hi> being brought to the Bar, and Arraigned, robbing his Lodgings of Sheets, Napkins, Curtains and other things, ingeniouſly con<g ref="char:EOLhyphen"/>feſſed the Pact.</p>
+            <p>
+               <hi>Samuel Neve</hi> was Tryed for ſtealing a Horſe and Mare from two Per<g ref="char:EOLhyphen"/>ſons at <hi>Beudly</hi> in <hi>Gloceſterſhire,</hi> which he, together with another Perſon who is ſince dead in Priſon, brought to the <hi>Black-Lyon</hi> Inn in <hi>Water-Lane, Fleet-ſtreet,</hi> and the Oſtler owned the Horſe to be his, though upon his Tryal he abſolutely denyed that he had any thing to do with either of them, but that he travelling for <hi>London,</hi> the Perſon deceaſed overtook him near <hi>Henly,</hi> riding on the Mare, and leading the Horſe, where upon he for two Shillings bargained with him to let him ride to <hi>London,</hi> but the Jury would not believe his apology, but found him Guilty.</p>
+            <p>
+               <hi>Jeffrey Coleman</hi> was Tryed for robbing <hi>John Fann</hi> of <hi>Hornzey</hi> on the 12th of <hi>Auguſt</hi> laſt, of Iron and Cloath, part of which he confeſſed, and the whole being prov'd to be taken about him, he was found Guilty of the Felony.</p>
+            <p>
+               <hi>Mary Dakins, Alias Wilſon,</hi> was Tryed for having two Husbands, <hi>viz. Wilſon,</hi> and <hi>Hambleton,</hi> the former being the proſecutor, and the latter not appearing to <hi>Wilſon,</hi> as he declared ſhe was firſt Married, it being a<g ref="char:EOLhyphen"/>bout 7 years ſince, and that to the latter ſhe had not been Married above a year, but ſhe being asked what ſhe could ſay for her ſelf, utterly diſowned the latter. Marriage, ſaying her Husband proſecuted maliciouſly on pur<g ref="char:EOLhyphen"/>poſe to take away her Life to eſpouſe one he loved better, and he on the other ſide produced her Examination, taken before a Juſtice of Peace for the County of <hi>Middleſex,</hi> in which ſhe had confeſſed both Marriages, but ſhe utterly denied it; ſo that the Jury upon hearing both Parties, brought her in not Guilty.</p>
+            <p>
+               <hi>James Farrel</hi> and <hi>Robert Hunly</hi> were Tryed for Murthering one <hi>John Price</hi> a Brickmaker at <hi>Hammerſmith</hi> about the middle of the laſt Month, the nature of the Fact being this. The two Perſons Tryed come into a Victualling Houſe, and called for drink, and afterwards a pack of Cards, but the latter was refuſed them, whereupon one of them pulled out a pack, and went into the next Room, where ſeveral Perſons were drinking, and invited them to play, of which invita<g ref="char:EOLhyphen"/>tion ſome accepted of, which number the party killed was one, and after ſome time playing, one of the Countrymen told the Priſoner they were
+<pb n="3" facs="tcp:35264:2" rendition="simple:additions"/>Cheats, and knew the Cards as well as themſelves, which ſo iracitated them, that they drew their Swords, and made ſeveral paſſes, amongſt which one made by <hi>Farrel</hi> entered to Inches into the body of <hi>Price,</hi> of which wound he then and there inſtantly died; the Priſoners endeavoured to ex<g ref="char:EOLhyphen"/>cuſe themſelves by laying it upon each other, and pleading no Malice, fore-thought, but the Fact being attended with ſuch evil circumſtances, the Jury brought them in both Guilty of Wilful Murther.</p>
+            <p>
+               <hi>Thomas White</hi> was Tryed for breaking open the dwelling Houſe of one Mr. <hi>Hull</hi> in the Pariſh of St. <hi>Clemants Danes,</hi> and feloniouſly taking away Puter, Braſs, and ſuch like Houſhold Goods to a good value, many of them as by Evidence it appeared, being found in his Cuſtody, or where he had diſpoſed of them, ſo that he having little to ſay for himſelf, the Jury found him Guilty.</p>
+            <p>Mr. <hi>Poltney</hi> pleaded his Pardon, and had it allowed, he having been Tryed the laſt Seſſions for killing one Mr. <hi>Howard</hi> in St. <hi>James's</hi> Square, upon which Tryal, the Jury brought it in <hi>ſe defendendo.</hi>
+            </p>
+            <p>
+               <hi>Catharine Arnold</hi> was Tryed for Robbing the Houſe of one <hi>Finch</hi> her Brother-in-Law, and in the Indictment things of great value ſpecified, but upon her Tryal only two Puter Porringers being proved to have been found in her Cuſtody, and thoſe ſhe alledged her Siſter in her life time gave her, and ſhe bringing proof of her reputation, the Jury acquitted her.</p>
+            <p>
+               <hi>Simon Beale</hi> was Tryed for picking two pockets on Ship-board, one of a ſhilling, and the other of one ſhilling nine pence, but he pleaded he found the Mony upon the Deck, but appearing he had no buſineſs on Board, and that being purſued, he fled; the Jury found him Guilty.</p>
+            <p>
+               <hi>Ann Croſs</hi> was Tryed for ſtealing Soo Cony Skins from <hi>Andrew Da<g ref="char:EOLhyphen"/>vis</hi> on the 16 of <hi>Auguſt</hi> laſt, the Evidence ſwore that the Priſoner coming to the Shop of the aforeſaid <hi>Andrew Davis,</hi> in his abſence ticed a youth that he had intruſted there to let her come in; which he at firſt refuſed, but being tempted with ſome Mony ſhe gave him, he at laſt conſented, and when ſhe was in it, being the dusk of the evening, ſhe packed up the skins in a Bag, and carried them away, ſeveral of her Neighbours likewiſe gave teſtimony againſt her, that ſhe was a naughty Woman, and had inticed Children oft to Rob their Parents, but ſhe utterly denying the Fact, for which ſhe ſtood Indicted, and there being no proof but the Youths, and he in all likelyhood her Confederate, ſhe was acquitted.</p>
+            <p>A Motion was made by Counſel for the King, that one <hi>Richard Rey<g ref="char:EOLhyphen"/>nolds</hi> Priſoner in <hi>Newgate,</hi> for being Active in the late <hi>Scotch</hi> Rebellion, might not be tryed at this Seſſions, it being intended that he ſhall be ſent for <hi>Scotland,</hi> there to be tryed.</p>
+            <p>
+               <hi>Thomas Gaſcone</hi> was Tryed upon two Indictments for ſtealing Cloaths, and other things of conſiderable value on the ſecond of <hi>July</hi> laſt, ſeveral of which were found about him, but alledged that he bought them, but could nor prove of whom he bought 'um; ſo that upon conſideration of all the circumſtances and poſitive evidence, the Jury found him Guilty.</p>
+            <p>
+               <hi>John How</hi> being brought to the Bar for ſtealing a Silver Tankard, and o<g ref="char:EOLhyphen"/>ther things of good worth, upon his being ordered to plead to his Indict<g ref="char:EOLhyphen"/>ment, pleaded Guilty.</p>
+            <p>
+               <hi>William Cook,</hi> and <hi>William Chapman,</hi> two Lytermen, were tryed for
+<pb n="4" facs="tcp:35264:3" rendition="simple:additions"/>ſtealing as much ſilk as came to twenty ſhillings out of a Bale, which they were ſtowing in their Lyter, to which they returned anſwer that they had no intent to ſteal it, but that upon turning the Bale, it dropped out, and that they put it into their Breeches only to ſecure it whilſt they had done work, intending then to re<g ref="char:EOLhyphen"/>turn it, but it being apparent that they concealed it upon inquiry, they were both convicted of the Felony.</p>
+            <p>
+               <hi>Mary Aubry</hi> was Tryed for ſtealing Silks and other things to a great worth, which ſhe ſold in <hi>Long Lane,</hi> &amp; other places, &amp; being known a notorious Shoplift, ſhe was found Guilty.</p>
+            <p>
+               <hi>Ann Iaxſon</hi> was Tryed for robbing a Houſe in St. <hi>Dunſtans</hi> in the Eaſt, on the 16 of <hi>July</hi> laſt, and feloniouſly taking away Gowns, Petticoats, pieces of Plate, Spoons, Porrengers, Sheets, and other things, ſhe being Servant in the ſaid Houſe, and doing the Robbery in her Maſters abſence.</p>
+            <p>A Woman was Indicted for Marrying a ſecond Husband during the Life of her firſt, but only the firſt Marriage appearing on Evidence, and neither Miniſter nor Sexton being there to prove the ſecond, although it was alledged to be contracted at St. <hi>Catherines</hi> Church by the <hi>Tower,</hi> ſhe denying any Husband but he that proſe<g ref="char:EOLhyphen"/>cuted her, ſhe was acquitted.</p>
+            <p>
+               <hi>Iohn Cox</hi> being Indicted for ſtealing a Silver Tankard, valued at 3 pounds, pleaded Guilty; there alſo was in the ſame Indictment one <hi>Iohn Lacy,</hi> but upon his pleading that he went away with it unknown to him, under pretence of going down ſtairs to have it filled again, the Jury acquitted him.</p>
+            <p>
+               <hi>Ralph Bentum</hi> the Pewterer in <hi>Walbrook,</hi> was tryed for killing <hi>Andrew Williams</hi> a Joyners Boy, the ſubſtance of the Tryal as the Evidence depoſed, was, that the Lad in the company of ſome others came to take away the wood deſigned for a Bonfire, on the 29 of <hi>May</hi> laſt, and Aſſaulting thoſe that kept it, Mr. <hi>Bentum</hi> came out with a Staff, and endeavoured to diſperſe them, when amongſt the reſt he ſtruck this <hi>Williams</hi> over the head, giving him two wounds, of which he languiſhed for ſome time, but his wounds being heal'd up, he was ſent into the Country, and after that returning to <hi>London,</hi> fell ſick of a malignant Feavour, of which on the 28 of <hi>Auguſt</hi> he died, ſeveral able Phyſicians and Chyrurgions were examined, ſome of which affirmed that the Feavour was occaſioned by the wounds, and others the contrary, each producing the reaſons that induced them to ſuch their belief, when as the Jury going out, upon their return found the Priſoner guilty of Manſlaughter.</p>
+            <p>
+               <hi>Fardinando Hews, Dorothy Watſon,</hi> and <hi>Elizabeth Ways,</hi> were Tryed for Clipping of the Lawful and currant Coin of <hi>England,</hi> it appearing upon Evidence that the lat<g ref="char:EOLhyphen"/>ter had often dealt with the Witneſs (who was a Saltars Man) for broad Monies, giving him in Exchange 21 <abbr>
+                  <hi>s.</hi>
+               </abbr> and 6 <abbr>
+                  <hi>d.</hi>
+               </abbr> of Clipped Money for 20 <abbr>
+                  <hi>s.</hi>
+               </abbr> of the other, but there being but a ſingle evidence, which in caſe of Treaſon cannot attaint any per<g ref="char:EOLhyphen"/>ſon, they were acquitted.</p>
+            <p>
+               <hi>Thomas Stocdale</hi> was Tryed and found Guilty for taking a Box of Cloaths from a Boy in the Pariſh of St. <hi>Bartholomew</hi> the Great, under pretence of helping him to carry it, of which Felony he was found Guilty.</p>
+            <p>
+               <hi>Ralph Saunderſon</hi> was Tryed for ſtealing a Tankard from <hi>John Wheatly</hi> in <hi>Holbourn,</hi> on the 5th of <hi>Auguſt,</hi> for he coming to drink, took his opportunity to ſet down a Pewter Tankard, and carry away the Silver one, for which being taken ſome time after, he was committed, and on his Tryal found Guilty.</p>
+            <p>
+               <hi>Francis Finamo, John Pancas,</hi> and <hi>Mary</hi> his Wife were Indicted for the Murther of <hi>Joſeph Fenn,</hi> whom for being a Marſhals Officer, having arreſted him, and he ſeem<g ref="char:EOLhyphen"/>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g unwilling to go with him, they all fell upon him, and throwing him down, and bruiſed him, ſo that for ſeveral weeks he ſpit blood, and then died, ſo that upon the Tryal <hi>Pancas</hi> and his Wife were found Guilty of Manſlaughter, &amp; <hi>Finamo</hi> Acquitted.</p>
+            <p>
+               <hi>At this Seſſions were nine Perſons who received Sentence of Death, viz.</hi> James Far<g ref="char:EOLhyphen"/>rel, Rob. Hurling, Pet. Hodges, Rob. Rogers, Richard Wolley, Tho. Stocdale, Heſter Vareright, Mary Pancus, <hi>and</hi> Ann Parkaſon; 10 burnt in the Hand, 4 to be Whipp'd. And ſo ended the Seſſions.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Langley Curtis.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
